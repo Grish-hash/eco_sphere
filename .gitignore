@@ -209,7 +209,7 @@ tempCodeRunnerFile.py
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
+.pypirc 
 
 # Marimo
 marimo/_static/
@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.pyc
+node_modules/
+.vscode/
